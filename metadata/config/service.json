@@ -3,5 +3,6 @@
   "_type": "config.service",
   "name": "Service name goes here",
   "phase": "alpha",
-  "phaseText": "Service phase text goes here"
+  "phaseText": "Service phase text goes here",
+  "_isa": "@ministryofjustice/fb-components-core=>service"
 }

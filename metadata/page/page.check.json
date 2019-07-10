@@ -1,0 +1,20 @@
+{
+  "_id": "page.check",
+  "_type": "page.summary",
+  "components": [
+    {
+      "_id": "page.check--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.check--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "I agree that this is accurate and true",
+          "name": "declaration"
+        }
+      ],
+      "legend": "Declaration"
+    }
+  ],
+  "url": "check"
+}
